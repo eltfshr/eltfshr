@@ -1,7 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=eltfshr&repo=github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eltfshr&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=eltfshr&repo=convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eltfshr&repo=convoychat" />
 </a>
 
