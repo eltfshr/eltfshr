@@ -1,5 +1,5 @@
-<a height="175px" href="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true&theme=radical" />
+<a height="175px" href="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true&theme=radical&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true&theme=radical&layout=compact" />
 </a>
 <a height="175px" href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
