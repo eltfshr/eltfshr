@@ -1,8 +1,8 @@
-<a href="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true?theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true?theme=radical" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact?theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact?theme=radical" />
 </a>
 
 
