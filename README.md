@@ -1,7 +1,7 @@
-
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true&theme=radical&layout=compact" />
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact" />
-
+<div>
+  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true&theme=radical&layout=compact" />
+  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact" />
+</div>
 
 
 <!--
