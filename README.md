@@ -1,7 +1,7 @@
-<div style="display:flex; flex-direction: column;">
+
   <img src="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true&theme=radical&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact" />
-</div>
+
 
 
 <!--
