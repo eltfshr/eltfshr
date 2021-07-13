@@ -1,7 +1,15 @@
-<div>
+## Hello there, my name is Nathee Jaywaree
+
+### About me
+I am a graduate student in Computer Engineering at King Mongkut’s University of Technology Thonburi (KMUTT) 👨‍🎓
+
+
+## Stats
+<div align="center">
   <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true&theme=radical&layout=compact" />
   <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact" />
 </div>
+
 
 
 <!--
