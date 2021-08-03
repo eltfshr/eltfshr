@@ -7,6 +7,7 @@ I am a graduate student in Computer Engineering at King Mongkut’s University o
 ## Stats
 <div align="center">
   <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=eltfshr&count_private=true&show_icons=true&theme=algolia&layout=compact" />
+  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltfshr&layout=compact&theme=algolia" />
 </div>
 
 
