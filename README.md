@@ -2,6 +2,7 @@
 
 ### About me
 I am an undergraduate student in Computer Engineering at King Mongkut’s University of Technology Thonburi (KMUTT) 👨‍🎓
+<br>Contact me: [LinkedIn](https://www.linkedin.com/in/nathee-jaywaree-b87507214/)
 
 
 ## Skills
