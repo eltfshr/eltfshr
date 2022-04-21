@@ -1,8 +1,21 @@
 ## Hello there, my name is Nathee Jaywaree
 
 ### About me
-I am a graduate student in Computer Engineering at King Mongkut’s University of Technology Thonburi (KMUTT) 👨‍🎓
+I am an undergraduate student in Computer Engineering at King Mongkut’s University of Technology Thonburi (KMUTT) 👨‍🎓
 
+
+## Skills
+### Languages:
+C, Java, JavaScript, TypeScript, Python, PHP, R, Assembly, HTML, CSS, SQL
+
+### Frameworks:
+React, Next.js, Express.js
+
+### Tools:
+Visual Studio Code, PyCharm, CodeBlocks, Eclipse, RStudio, MySQL, MongoDB, Git, GitHub, Docker, Nginx, npm, Yarn, Node.js, Postman
+
+### Additional Experiences:
+Data administration, Database administration, Database management, Chrome extension, Team Programming, API developing, Web developing
 
 ## Stats
 <div align="center">
