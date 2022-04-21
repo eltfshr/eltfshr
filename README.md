@@ -9,7 +9,7 @@ I am an undergraduate student in Computer Engineering at King Mongkut’s Univer
 C, Java, JavaScript, TypeScript, Python, PHP, R, Assembly, HTML, CSS, SQL
 
 ### Frameworks:
-React, Next.js, Express.js
+React, Next.js, Express.js, Tailwind CSS
 
 ### Tools:
 Visual Studio Code, PyCharm, CodeBlocks, Eclipse, RStudio, MySQL, MongoDB, Git, GitHub, Docker, Nginx, npm, Yarn, Node.js, Postman
