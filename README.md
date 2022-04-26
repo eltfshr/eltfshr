@@ -2,12 +2,12 @@
 
 ### About me
 I am an undergraduate student in Computer Engineering at King Mongkut’s University of Technology Thonburi (KMUTT) 👨‍🎓
-<br>Contact me: [LinkedIn](https://www.linkedin.com/in/nathee-jaywaree-b87507214/)
+<br>Contact me: [LinkedIn](https://www.linkedin.com/in/nathee-jaywaree-b87507214/), puntf2@gmail.com
 
 
 ## Skills
 ### Languages:
-C, Java, JavaScript, TypeScript, Python, PHP, R, Assembly, HTML, CSS, SQL
+Thai, English, C, Java, JavaScript, TypeScript, Python, PHP, R, Arduino, Assembly, HTML, CSS, SQL
 
 ### Frameworks:
 React, Next.js, Express.js, Tailwind CSS
