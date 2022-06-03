@@ -25,7 +25,7 @@ I am an undergraduate student in Computer Engineering at King Mongkut’s Univer
 
 ### Back-End and Databases:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express JS](https://img.shields.io/static/v1?message=Express&logo=express&color=000000&logoColor=white&label=%20&style=for-the-badge)
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
