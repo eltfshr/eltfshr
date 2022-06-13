@@ -2,7 +2,7 @@
 
 ### About me
 I am an undergraduate student in Computer Engineering at King Mongkut’s University of Technology Thonburi (KMUTT) 👨‍🎓
-<br>I am interested in cyber security🔐, computer operations☁, and application development⚙
+<br>I am interested in cyber security🔐, operations⚒, networking☁, and application development⚙
 <br>Contact me: <puntf2@gmail.com> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathee-jaywaree-b87507214/) 
 <br>My resume: <a href="https://eltfshr.github.io/resume.pdf" target="_blank">here</a>
 
