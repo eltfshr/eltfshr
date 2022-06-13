@@ -2,6 +2,7 @@
 
 ### About me
 I am an undergraduate student in Computer Engineering at King Mongkut’s University of Technology Thonburi (KMUTT) 👨‍🎓
+<br>I am interested in cyber security🔐, computer operations☁, and application development⚙
 <br>Contact me: <puntf2@gmail.com> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathee-jaywaree-b87507214/) 
 
 
@@ -41,11 +42,11 @@ I am an undergraduate student in Computer Engineering at King Mongkut’s Univer
 ![Nginx](https://img.shields.io/static/v1?message=Nginx&logo=nginx&color=white&logoColor=009639&label=%20&style=for-the-badge)
 ![npm](https://img.shields.io/static/v1?message=npm&logo=npm&color=CB3837&logoColor=white&label=%20&style=for-the-badge)
 ![yarn](https://img.shields.io/static/v1?message=Yarn&logo=yarn&color=2C8EBB&logoColor=white&label=%20&style=for-the-badge)
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Experiences:
-Data administration, Database administration, Database management, Chrome extension, Team Programming, API developing, Web developing
+Database administration, Database management, Chrome extension developing, Team Programming, API developing, Web developing
 
 
 
